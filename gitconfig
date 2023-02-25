@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 126068134+stesea@users.noreply.github.com
+	name = stesea
